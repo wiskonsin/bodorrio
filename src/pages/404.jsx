@@ -9,11 +9,11 @@ const NotFound = () => (
     <Seo title="404 - Not found" />
     <Container>
       <Themed.p>
-        Oh, no!
+        ¡Oh, no!
         <br />
-        You found a page that doesn't exist.{` `}
+        La página que buscas no existe.{` `}
         <TLink as={Link} to="/">
-          Do you want to visit the homepage?
+          ¿Quieres volver al inicio?
         </TLink>
       </Themed.p>
     </Container>

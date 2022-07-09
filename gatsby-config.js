@@ -7,14 +7,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emma-core/gatsby-config.js
-    siteTitle: `Emma`,
-    siteTitleAlt: `Emma - Gatsby Starter Portfolio`,
-    siteHeadline: `Emma - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://emma.lekoarts.de`,
-    siteDescription: `Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images`,
-    siteLanguage: `en`,
+    siteTitle: `Boda Jenni y Luis`,
+    siteTitleAlt: `JyL 05/08/23`,
+    siteHeadline: `JyL 05/08/23`,
+    siteUrl: `https://jylbodorrio.com`,
+    siteDescription: `Nos casamos!`,
+    siteLanguage: `es`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@wiskonsin`,
   },
   plugins: [
     {
@@ -27,10 +27,10 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Emma - @lekoarts/gatsby-theme-emma`,
-        short_name: `Emma`,
-        description: `Minimalistic bright portfolio with full-width grid and large images`,
+        short_name: `JyL`,
+        description: `5 de agosto de 2023`,
         start_url: `/`,
-        background_color: `#fff`,
+        background_color: `#c6b19b`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#b83280`,
